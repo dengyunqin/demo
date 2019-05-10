@@ -12,6 +12,7 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("a");
+		System.out.println("branch test");
 	}
 
 }
